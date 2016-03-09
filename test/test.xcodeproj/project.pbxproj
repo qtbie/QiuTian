@@ -16,6 +16,8 @@
 		4F7350121C8FCC3900989F79 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F7350101C8FCC3900989F79 /* LaunchScreen.storyboard */; };
 		4F73501D1C8FCC3900989F79 /* testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F73501C1C8FCC3900989F79 /* testTests.m */; };
 		4F7350281C8FCC3900989F79 /* testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F7350271C8FCC3900989F79 /* testUITests.m */; };
+		4F7350361C8FDAA200989F79 /* lable.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F7350351C8FDAA200989F79 /* lable.xib */; };
+		4F7350381C8FDE6300989F79 /* 200711912453162_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F7350371C8FDE6300989F79 /* 200711912453162_2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		4F7350231C8FCC3900989F79 /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F7350271C8FCC3900989F79 /* testUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testUITests.m; sourceTree = "<group>"; };
 		4F7350291C8FCC3900989F79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F7350351C8FDAA200989F79 /* lable.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = lable.xib; sourceTree = "<group>"; };
+		4F7350371C8FDE6300989F79 /* 200711912453162_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 200711912453162_2.jpg; sourceTree = "<group>"; };
 		DB70FD7FE1FDCB720FBAE035 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7DC500AD74401813E893B2B /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -120,9 +124,11 @@
 				4F7350051C8FCC3900989F79 /* AppDelegate.h */,
 				4F7350061C8FCC3900989F79 /* AppDelegate.m */,
 				4F7350081C8FCC3900989F79 /* ViewController.h */,
+				4F7350351C8FDAA200989F79 /* lable.xib */,
 				4F7350091C8FCC3900989F79 /* ViewController.m */,
 				4F73500B1C8FCC3900989F79 /* Main.storyboard */,
 				4F73500E1C8FCC3900989F79 /* Assets.xcassets */,
+				4F7350371C8FDE6300989F79 /* 200711912453162_2.jpg */,
 				4F7350101C8FCC3900989F79 /* LaunchScreen.storyboard */,
 				4F7350131C8FCC3900989F79 /* Info.plist */,
 				4F7350021C8FCC3900989F79 /* Supporting Files */,
@@ -271,7 +277,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F7350121C8FCC3900989F79 /* LaunchScreen.storyboard in Resources */,
+				4F7350381C8FDE6300989F79 /* 200711912453162_2.jpg in Resources */,
 				4F73500F1C8FCC3900989F79 /* Assets.xcassets in Resources */,
+				4F7350361C8FDAA200989F79 /* lable.xib in Resources */,
 				4F73500D1C8FCC3900989F79 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
