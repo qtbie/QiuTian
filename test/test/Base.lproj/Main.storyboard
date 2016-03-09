@@ -24,7 +24,7 @@
         <!--蓝-->
         <scene sceneID="zSb-UR-iwg">
             <objects>
-                <viewController id="Fbw-mS-8Dt" sceneMemberID="viewController">
+                <viewController id="Fbw-mS-8Dt" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="A53-dJ-Vsu"/>
                         <viewControllerLayoutGuide type="bottom" id="I88-kv-PuD"/>
@@ -98,7 +98,7 @@
         <!--黄-->
         <scene sceneID="Hvo-O2-GK8">
             <objects>
-                <viewController id="IGR-lS-dg5" sceneMemberID="viewController">
+                <viewController id="IGR-lS-dg5" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Z4t-hc-K2x"/>
                         <viewControllerLayoutGuide type="bottom" id="J1w-xQ-h6u"/>
